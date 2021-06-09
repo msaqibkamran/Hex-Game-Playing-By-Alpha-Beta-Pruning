@@ -19,5 +19,4 @@ Made a new AI player that would implement the Player interface. AI player
 makes use of the Minimax algorithm and Alpha-Beta Pruning.
 
 # Technologies
-Java
-
+Java, AI
